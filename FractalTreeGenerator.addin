@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>FractalTreeGenerator</Name>
+    <Assembly>FractalTreeGenerator.dll</Assembly>
+    <AddInId>EEC61074-FA99-44AB-AA37-C7FE6B1877B8</AddInId>
+    <FullClassName>FractalTreeGenerator.FractalPanel</FullClassName>
+    <VendorId>Pavlo</VendorId>
+    <VendorDescription>Pavlo</VendorDescription>
+  </AddIn>
+</RevitAddIns>
