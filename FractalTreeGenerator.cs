@@ -249,6 +249,7 @@ namespace FractalTreeGenerator
                 //If an element was picked run tree generation
                 if (refLine != null)
                 {
+                    GlobVars.treeCurves = new CurveArray();
                     //call recursive function
                     method(GlobVars.treeDepth, crv, GlobVars.treeCurves, GlobVars.rotAngle, GlobVars.lenFactor);
 
